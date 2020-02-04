@@ -1,0 +1,6 @@
+Outlook,Temperature,Temperature.1,Humidity,Humidity.1,Windy,Play
+sunny,85,hot,85,high,False,no
+rainy,70,mild,96,high,False,yes
+rainy,71,mild,91,high,True,no
+overcast,72,mild,90,high,True,yes
+sunny,80,hot,90,high,True,no
